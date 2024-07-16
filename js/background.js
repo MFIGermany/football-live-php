@@ -1,5 +1,5 @@
-//const url_global = "https://www.football-live.lol/footlive/";
-const url_global = "http://127.0.0.1:3001/footlive/";
+const url_global = "https://www.football-live.lol/footlive/";
+//const url_global = "http://127.0.0.1:3001/footlive/";
 
 function formatDate(fecha, formato) {
     const map = {
