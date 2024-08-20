@@ -1,4 +1,4 @@
-<?php die('probando pagina'); ?>
+<?php ?>
 <html>
     <head>
 		<meta charset="UTF-8">
